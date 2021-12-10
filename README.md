@@ -5,6 +5,8 @@ Steps to reproduce:
 2. Enter 'pip3 install selenium'
 3. Enter 'choco install seleniium'
 4. Open file "Adashchyk_Test_Assignment_10_12_2021.py" in any code editor and reproduce
+
+
 Assignment body:
 "1. Перейти по ссылке на главную страницу сайта Netpeak (https://netpeak.ua/)
 2. Нажать на кнопку "О нас" и в выпавшем списке нажать кнопку "Команда"
